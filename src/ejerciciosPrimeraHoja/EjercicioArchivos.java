@@ -3,7 +3,13 @@ package ejerciciosPrimeraHoja;
 import java.util.ArrayList;
 
 public class EjercicioArchivos {
-
+/*
+ * DESDE QUE EL MUNDO CAMBIO ESTAMOS MUCHOS MAS UNIDOS
+ * CON LOS DIGIMON LUCHAMOS JUNTOS CONTRA EL MAL.
+ * ALGO EXTRAÑO PASABA DIGIEVOLUCIONABAN EN TAMAÑO Y COLOR 
+ * ELLOS SON LOS DIGIMON.
+ * 
+ */
 	public static void main(String[] args) {
 		ArrayList<Integer> archivo1 = cargarArchivo1();
 
