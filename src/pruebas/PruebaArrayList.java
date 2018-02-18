@@ -3,7 +3,7 @@ package pruebas;
 import java.util.ArrayList;
 
 public class PruebaArrayList {
-
+//Clase para crear listas de array
 	public static void main(String[] args) {
 		ArrayList<String> listaCadenas = new ArrayList<String>();
 		
